@@ -1,4 +1,4 @@
-# car-lease-calculator
+# Car-Lease-Calculator
 The Java files collectively implement a leasing cost calculation system for vehicles.
 A system is formed that reads vehicle descriptions from a file, creates Vehicle objects with fuel and lease details, calculates CO2 emissions and fuel costs for each vehicle, and presents a summary of the vehicles' details and costs. The main purpose is to assist in estimating the environmental impact and financial aspects of leasing different vehicles based on their fuel types and lease terms.
 
